@@ -61,6 +61,3 @@ def union_files():
             file.write(file_name + '\n')
             file.write(file_param['length'] + '\n')
             file.write(file_param['text'] + '\n')
-
-
-
